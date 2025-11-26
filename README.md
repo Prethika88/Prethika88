@@ -29,15 +29,6 @@ I'm a passionate developer who enjoys building full-stack applications and explo
 
 ---
 
-## 📊 **GitHub Stats**
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Prethika88&show_icons=true&theme=tokyonight)
-
-## 🧩 **Top Languages**
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Prethika88&layout=compact&theme=tokyonight)
-
----
 
 # 📬  **Connect With Me**
 
