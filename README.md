@@ -1,16 +1,31 @@
-## Hi there 👋
+Hi, I'm Prethika A! 👋
 
-<!--
-**Prethika88/Prethika88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year B.E. Computer Science & Engineering
+Chennai Institute of Technology 
 
-Here are some ideas to get you started:
+🌟 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate developer who enjoys building full-stack applications and exploring Artificial Intelligence and Machine Learning. I focus on solving real-world problems through technology and continuously learning new tools and technologies to strengthen my skills.
+
+🛠️ Skills
+
+Programming Languages: Java, Python, HTML, CSS, JavaScript
+
+Web Frameworks: React.js, Node.js, Express.js, Tailwind CSS
+
+Databases: MySQL, MongoDB
+
+Development Tools: Power BI, Git, GitHub, Canva, Figma, VS Code, MS Excel
+
+Technologies: Artificial Intelligence (AI), Machine Learning (ML)
+
+GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prethika88&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prethika88&layout=compact&theme=tokyonight)
+
+📬 Connect With Me
+
+Email: prethikaanandkumar693@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/prethika-a-160935257
