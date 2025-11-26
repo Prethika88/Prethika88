@@ -2,10 +2,9 @@
 
 
 
-
 🎓 Final-year B.E. Computer Science & Engineering
 
-Chennai Institute of Technology
+🏫 Chennai Institute of Technology
 
 ---
 
@@ -18,20 +17,20 @@ I'm a passionate developer who enjoys building full-stack applications and explo
 
 # 🛠️  **Skills**
 
-- Programming Languages: Java, Python, HTML, CSS, JavaScript
+- **Programming Languages**: Java, Python, HTML, CSS, JavaScript
 
-- Web Frameworks: React.js, Node.js, Express.js, Tailwind CSS
+- **Web Frameworks**: React.js, Node.js, Express.js, Tailwind CSS
 
-- Databases: MySQL, MongoDB
+- **Databases**: MySQL, MongoDB
 
-- Development Tools: Power BI, Git, GitHub, Canva, Figma, VS Code, MS Excel
+- **Development Tools**: Power BI, Git, GitHub, Canva, Figma, VS Code, MS Excel
 
-- Technologies: Artificial Intelligence (AI), Machine Learning (ML)
+- **Technologies**: Artificial Intelligence (AI), Machine Learning (ML)
 
 ---
 
 # 📬  **Connect With Me**
 
-- Email: prethikaanandkumar693@gmail.com
+- **Email**: prethikaanandkumar693@gmail.com
 
-- LinkedIn: https://www.linkedin.com/in/prethika-a-160935257
+- **LinkedIn**: https://www.linkedin.com/in/prethika-a-160935257
