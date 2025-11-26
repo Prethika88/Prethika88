@@ -1,7 +1,8 @@
-Hi, I'm Prethika A! 👋
+ Hi, I'm Prethika A! 👋
 
 🎓 Final-year B.E. Computer Science & Engineering
-Chennai Institute of Technology 
+
+Chennai Institute of Technology
 
 🌟 About Me
 
@@ -18,11 +19,6 @@ Databases: MySQL, MongoDB
 Development Tools: Power BI, Git, GitHub, Canva, Figma, VS Code, MS Excel
 
 Technologies: Artificial Intelligence (AI), Machine Learning (ML)
-
-GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prethika88&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prethika88&layout=compact&theme=tokyonight)
 
 📬 Connect With Me
 
