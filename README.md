@@ -1,5 +1,5 @@
- Hi, I'm Prethika A! 👋
-
+ ***Hi, I'm Prethika A!*** 👋
+ <hr>
 
 
 🎓 Final-year B.E. Computer Science & Engineering
@@ -8,13 +8,13 @@ Chennai Institute of Technology
 
 ---
 
-🌟 About Me
+🌟 ***About Me***
 
 I'm a passionate developer who enjoys building full-stack applications and exploring Artificial Intelligence and Machine Learning. I focus on solving real-world problems through technology and continuously learning new tools and technologies to strengthen my skills.
 
 ---
 
-🛠️ Skills
+🛠️ ***Skills***
 
 - Programming Languages: Java, Python, HTML, CSS, JavaScript
 
@@ -28,8 +28,8 @@ I'm a passionate developer who enjoys building full-stack applications and explo
 
 ---
 
-📬 Connect With Me
+📬 ***Connect With Me***
 
-Email: prethikaanandkumar693@gmail.com
+- Email: prethikaanandkumar693@gmail.com
 
-LinkedIn: https://www.linkedin.com/in/prethika-a-160935257
+- LinkedIn: https://www.linkedin.com/in/prethika-a-160935257
